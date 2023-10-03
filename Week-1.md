@@ -4,13 +4,18 @@
 - `[user@sahara ~/lecture1]$ cd` <br />
 _I ran this from /home._ <br />
 _There is no output here because I'm not giving any location to cd into. This command needs a destination, or nothing will happen._ <br />
-_I don't think this is an error, I think I'm simply not giving any location to go to._ <br />
+_I don't think this is an error, I'm simply not giving any location to go to._ <br />
 
 - `[user@sahara ~/lecture1]$ ls` <br />
   `Hello.class  Hello.java  messages  README` <br />
-
+_I ran this from /home._ <br />
+_The output shows all the files available in this directory._
+_There is no error in this output._
 
 - `[user@sahara ~]$ cat` <br />
+_I ran this from /home._ <br />
+_I got no output because cat takes a file and prints it to the terminal. I got no output because no file was specified._ <br />
+_This is an error because cat requires a file to read from and print an output in order to work properly._ <br />
 
 1. A screenshot or Markdown code block showing the command and its output
 2. What the working directory was when the command was run
