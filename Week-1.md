@@ -1,4 +1,4 @@
-##For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
+## For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 ---
 - **No Args**
 - `[user@sahara ~/lecture1]$ cd` <br />
