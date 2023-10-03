@@ -1,6 +1,6 @@
 - _Italic_
 - **Bold**
 ---
-- > Blockquote
+> Blockquote
 1. **1**
 2. _2_
