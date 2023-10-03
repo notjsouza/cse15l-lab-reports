@@ -1,5 +1,5 @@
--_Italic_
--**Bold**
+- _Italic_
+- **Bold**
 ---
 - > Blockquote
 1. **1**
