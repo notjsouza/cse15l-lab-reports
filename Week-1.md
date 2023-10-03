@@ -2,7 +2,6 @@
 ---
 **No Args:**
 - `[user@sahara ~/lecture1]$ cd` <br />
-<br />
 _I ran this from /home._ <br />
 _There is no output here because I'm not giving any location to cd into. This command needs a destination, or nothing will happen._ <br />
 _I don't think this is an error, I think I'm simply not giving any location to go to._ <br />
