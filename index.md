@@ -1,1 +1,1 @@
-[Test File](https://github.com/notjsouza/cse15l-lab-reports/edit/main/index.md)
+[Test File](https://github.com/notjsouza/cse15l-lab-reports/main/index.html)
