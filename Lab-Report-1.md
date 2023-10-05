@@ -94,8 +94,9 @@
    
    public class Hello {
       public static void main(String[] args) throws IOException {
-      String content = Files.readString(Path.of(args[0]), StandardCharsets.UTF_8);
-      System.out.println(content);
+         String content = Files.readString(Path.of(args[0]), StandardCharsets.UTF_8);
+         System.out.println(content);
+      }
    }
    ```
 2. _I ran this from /home/lecture1._
