@@ -74,7 +74,7 @@
    `import java.nio.charset.StandardCharsets;` <br />
    `import java.nio.file.Files;` <br />
    `import java.nio.file.Path;` <br />
-<br />
+   
    `public class Hello {` <br />
      `public static void main(String[] args) throws IOException {` <br />
        `String content = Files.readString(Path.of(args[0]), StandardCharsets.UTF_8);` <br />
