@@ -8,8 +8,10 @@
 
 <br />
 
-1. `[user@sahara ~]$ ls` <br />
-   `lecture1` <br />
+1. ```
+   [user@sahara ~]$ ls
+   lecture1
+   ``` <br />
 2. _I ran this from /home._
 3. _The output shows all the files available in this directory._
 4. _There is no error in this output. It displays all the files currently accessible from the working directory._ <br />
