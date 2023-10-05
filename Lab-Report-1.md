@@ -76,10 +76,10 @@
    `import java.nio.file.Path;` <br />
    
    `public class Hello {` <br />
-        `public static void main(String[] args) throws IOException {` <br />
-          `String content = Files.readString(Path.of(args[0]), StandardCharsets.UTF_8);` <br />
-          `System.out.println(content);` <br />
-     `}` <br />
+      `public static void main(String[] args) throws IOException {` <br />
+      `String content = Files.readString(Path.of(args[0]), StandardCharsets.UTF_8);` <br />
+      `System.out.println(content);` <br />
+   `}` <br />
 2. _I ran this from /home/lecture1._
 3. _The output has a printed version of the Hello.java class._
 4. _There is no error, the file is properly printed to the console._
