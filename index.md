@@ -1,4 +1,4 @@
-##Lab Reports <br />
+Lab Reports <br />
 <br />
 [Week 1](Lab-Report-1.md)
 ---
