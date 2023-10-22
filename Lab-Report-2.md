@@ -1,6 +1,9 @@
 # Part 1 #
 ---
+
 ## Code: ##
+<br />
+
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -46,30 +49,40 @@ class StringServer {
 ```
 ---
 ## Screenshots: ##
-<br />
+
 ### Message 1 ###
 <br />
+
 **Adding Message 1 to the ArrayList using** <br />
 <br />
+
 ` /add-message?s=This is the first message `
 <br />
 <br />
+
 ![Adding Message 1](Message1Add.png)
 <br />
 
 <br />
+
 **Displaying Message 1 on the Home Page:** <br />
 <br />
 
-<br />
 ![Message 1](Message1.png)
 <br />
 
-<br />
+1. _The server starts with the StringServer class, where the main function runs on launch. From here, the main function calls the Handler class, which runs the handleRequest function._
+2. _The relevant argument for StringServer, specifically its main function, is the port we assign when starting the server. In this case, the port I used was ` 4000 `. In handleRequest, the relevant argument is the active URL. Specifically, we check if there is either a ` / ` at the end of the URL, which signals us to display the current string list or an argument such as ` /add-message?s=This is the first message `, which calls for ` This is the first message ` to be added to the ArrayList._
+3. _For the main function in StringServer, if we don't specify a valid port, or if we don't provide a port, the program will immediately exit with a message displaying ` Missing port number! Try any number between 1024 to 49151 `. For handleRequest, the values of any arguments are checked for one of three cases:
+   - the URL ends with ` / `, in which case the website displays the current list of added messages
+   - the URL ends with ` /add-message?s=<string> `, in which case ` <string> ` is appended to the end of the ArrayList Strings
+   - no change to the URL, in which case the page stays as it is
+   - or an invalid argument, in which case the website displays a ` 404 Not Found! ` message
 
 ### Message 2 ###
 
 <br />
+
 **Adding Message 2 to the ArrayList using** <br />
 <br />
 
@@ -77,12 +90,24 @@ class StringServer {
 <br />
 
 <br />
+
 ![Adding Message 2](Message2Add.png)
 <br />
 
 <br />
+
 **Displaying Message 2 on the Home Page:** <br />
 <br />
+
 ![Message 2](Message2.png)
 <br />
-<br />
+
+1. _The server starts with the StringServer class, where the main function runs on launch. From here, the main function calls the Handler class, which runs the handleRequest function._
+2. _The relevant argument for StringServer, specifically its main function, is the port we assign when starting the server. In this case, the port I used was ` 4000 `. In handleRequest, the relevant argument is the active URL. Specifically, we check if there is either a ` / ` at the end of the URL, which signals us to display the current string list, or an argument such as ` /add-message?s=Test second message `, which calls for ` Test second message ` to be added to the ArrayList._
+3. _For the main function in StringServer, if we don't specify a valid port, or if we don't provide a port, the program will immediately exit with a message displaying ` Missing port number! Try any number between 1024 to 49151 `. For handleRequest, the values of any arguments are checked for one of three cases:
+   - the URL ends with ` / `, in which case the website displays the current list of added messages
+   - the URL ends with ` /add-message?s=<string> `, in which case ` <string> ` is appended to the end of the ArrayList Strings
+   - no change to the URL, in which case the page stays as it is
+   - or an invalid argument, in which case the website displays a ` 404 Not Found! ` message
+
+---
