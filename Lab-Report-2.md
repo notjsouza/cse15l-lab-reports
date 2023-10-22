@@ -56,7 +56,7 @@ class StringServer {
 **Adding Message 1 to the ArrayList using** <br />
 <br />
 
-` /add-message?s=This is the first message `
+`/add-message?s=This is the first message`
 
 
 <br />
