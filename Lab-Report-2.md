@@ -46,7 +46,7 @@ class StringServer {
 ```
 ---
 ## Screenshots:
-### Message 1
+### Message 1 ###
 <br />
 **Adding Message 1 to the ArrayList using** <br />
 <br />
@@ -61,7 +61,7 @@ class StringServer {
 ![Message 1](Message1.png)
 <br />
 <br />
-### Message 2
+### Message 2 ###
 <br />
 **Adding Message 2 to the ArrayList using** <br />
 <br />
