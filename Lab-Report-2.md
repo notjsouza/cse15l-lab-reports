@@ -1,6 +1,6 @@
-# Part 1
+# Part 1 #
 ---
-## Code:
+## Code: ##
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -45,7 +45,7 @@ class StringServer {
 }
 ```
 ---
-## Screenshots:
+## Screenshots: ##
 ### Message 1 ###
 <br />
 **Adding Message 1 to the ArrayList using** <br />
