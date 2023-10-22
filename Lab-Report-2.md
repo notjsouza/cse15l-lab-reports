@@ -57,7 +57,8 @@ class StringServer {
 <br />
 
 ` /add-message?s=This is the first message `
-<br />
+
+
 <br />
 
 ![Adding Message 1](Message1Add.png)
@@ -87,7 +88,6 @@ class StringServer {
 <br />
 
 ` /add-message?s=Test second message `
-<br />
 
 <br />
 
