@@ -111,3 +111,19 @@ class StringServer {
    - or an invalid argument, in which case the website displays a ` 404 Not Found! ` message
 
 ---
+
+# Part 2 #
+
+---
+
+## Using the command line, show with ls and take screenshots of: ##
+<br />
+
+- The path to the private key for your SSH key for logging into ieng6 (on your computer or on the home directory of the lab computer)
+- The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6)
+
+![Image showing path to private and public keys](Lab2Part2LS)
+
+<br />
+  
+- A terminal interaction where you log into ieng6 with your course-specific account without being asked for a password.
