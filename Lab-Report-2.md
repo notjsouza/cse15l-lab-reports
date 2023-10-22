@@ -48,7 +48,8 @@ class StringServer {
 ## Screenshots: ##
 **Message 1** <br />
 <br />
-**Adding Message 1 to the ArrayList:** <br />
+**Adding Message 1 to the ArrayList using** <br />
+` /add-message?s=This is the first message `
 <br />
 ![Adding Message 1](Message1Add.png)
 <br />
@@ -60,7 +61,8 @@ class StringServer {
 <br />
 **Message 2** <br />
 <br />
-**Adding Message 2 to the ArrayList:** <br />
+**Adding Message 2 to the ArrayList using** <br />
+` /add-message?s=Test second message `
 <br />
 ![Adding Message 2](Message2Add.png)
 <br />
