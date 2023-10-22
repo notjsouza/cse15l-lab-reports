@@ -52,6 +52,7 @@ class StringServer {
 <br />
 ![Adding Message 1](Message1Add.png)
 <br />
+<br />
 **Displaying Message 1 on the Home Page** <br />
 <br />
 ![Message 1](Message1.png)
