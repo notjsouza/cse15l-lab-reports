@@ -119,18 +119,31 @@ class StringServer {
 ## Using the command line, show with ls and take screenshots of: ##
 <br />
 
-- The path to the private key for your SSH key for logging into ieng6 (on your computer or on the home directory of the lab computer)
-      **Shown as id_rsa on the bottom left of the terminal screen**
+- The path to the private key for your SSH key for logging into ieng6 (on your computer or on the home directory of the lab computer) <br />
+      _**Shown as id_rsa on the bottom left of the terminal screen**_
   <br />
   
-- The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6)
-      **Shown as id_rsa.pub on the bottom middle of the terminal screen**
-  <br />
+- The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6) <br />
+      _**Shown as id_rsa.pub on the bottom middle of the terminal screen**_
+<br />
 
 ![Image showing path to private and public keys](Lab2Part2LS.png)
 
 <br />
   
 - A terminal interaction where you log into ieng6 with your course-specific account without being asked for a password.
+<br />
 
 ![Image showing ssh into remote server w/o password](Lab2Part2SSH.png)
+
+<br />
+
+---
+
+# Part 3 #
+
+--
+
+## In a couple of sentences, describe something you learned from lab in week 2 or 3 that you didn’t know before. ##
+
+_These last two labs in weeks 2 and 3 have been very interesting as I've never done work on remote servers before. Before now, I didn't know the process of opening a terminal and using SSH to access a remote server and do things such as host webpages. This feels like a very useful skill to learn that would be applicable in industry-level programming._
