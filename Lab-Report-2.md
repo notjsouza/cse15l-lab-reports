@@ -120,10 +120,17 @@ class StringServer {
 <br />
 
 - The path to the private key for your SSH key for logging into ieng6 (on your computer or on the home directory of the lab computer)
+      **Shown as id_rsa on the bottom left of the terminal screen**
+  <br />
+  
 - The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6)
+      **Shown as id_rsa.pub on the bottom middle of the terminal screen**
+  <br />
 
-![Image showing path to private and public keys](Lab2Part2LS)
+![Image showing path to private and public keys](Lab2Part2LS.png)
 
 <br />
   
 - A terminal interaction where you log into ieng6 with your course-specific account without being asked for a password.
+
+![Image showing ssh into remote server w/o password](Lab2Part2SSH.png)
