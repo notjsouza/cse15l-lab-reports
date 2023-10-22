@@ -1,6 +1,6 @@
-## Part 1 ##
+# Part 1 #
 ---
-**Code:**
+## Code: ##
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -44,3 +44,7 @@ class StringServer {
     }
 }
 ```
+## Screenshots: ##
+**Message 1:**
+![Adding Message 1](Message1Add.png)
+![Message 1](Message1.png)
