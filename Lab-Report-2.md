@@ -44,7 +44,11 @@ class StringServer {
     }
 }
 ```
+---
 ## Screenshots: ##
-**Message 1:**
+**Message 1:** <br />
+**Adding Message 1 to the ArrayList** <br />
 ![Adding Message 1](Message1Add.png)
+<br />
+**Displaying Message 1 on the Home Page** <br />
 ![Message 1](Message1.png)
