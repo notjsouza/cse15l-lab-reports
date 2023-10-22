@@ -5,8 +5,8 @@
    [user@sahara ~/lecture1]$ cd
    ```
 2. _I ran this from /home._
-3. _There is no output here because I'm not specifying any location to cd into. This command needs a destination, or nothing will happen._
-4. _This is an error, cd is supposed to change the active directory. It isn't because I'm not giving any new location to change to._ <br />
+3. _There is no output here because nothing is changing. Using cd without any arguments changes the active directory to the home directory, but because I'm already there nothing changes._
+4. _There is no error in this output._ <br />
 
 <br />
 
