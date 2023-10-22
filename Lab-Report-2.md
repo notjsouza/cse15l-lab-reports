@@ -1,6 +1,6 @@
 ## Part 1 ##
 ---
-** Code: **
+**Code:**
 ```
 import java.io.IOException;
 import java.net.URI;
