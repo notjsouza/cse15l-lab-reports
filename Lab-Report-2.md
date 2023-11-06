@@ -120,9 +120,8 @@ class StringServer {
 <br />
 
 - The path to the private key for your SSH key for logging into ieng6 (on your computer or the home directory of the lab computer) <br />
-
 *Path: /Users/justin/.ssh/id_rsa*
-  <br />
+<br />
 
 ![Image showing path to the private key](Lab2Part2LS.png)
   
