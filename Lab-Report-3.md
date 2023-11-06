@@ -59,6 +59,8 @@ public void testReverseInPlace() {
 
 3. The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
 
-![Picture of JUnit test output](Lab3Step1#3.png)
+![JUnit test output](Lab3Step1#3.png)
+<br />
+
 - The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown) <br />
 _Briefly describe why the fix addresses the issue._
