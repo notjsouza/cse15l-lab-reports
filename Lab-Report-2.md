@@ -25,7 +25,7 @@ class Handler implements URLHandler {
                 String[] parameters = url.getQuery().split("=");
                 if (parameters[0].equals("s")) {
                     Strings.add(java.net.URLDecoder.decode(parameters[1], java.nio.charset.StandardCharsets.UTF_8));
-                    return String.format("Message added!");
+                    return String.format("Message added: " + Strings.get(Strings.size()-1));
                 }
             }
             return "404 Not Found!";
