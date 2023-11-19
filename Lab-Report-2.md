@@ -121,14 +121,14 @@ class StringServer {
 
 - The path to the private key for your SSH key for logging into ieng6 (on your computer or the home directory of the lab computer) <br />
 
-*Path: /Users/justin/.ssh/id_rsa*
+*Path: /Users/justin/.ssh/id_rsa.pub*
 <br />
 
 ![Image showing path to the private key](Lab2Part2LS.png)
   
 - The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6) <br />
 
-*Path: /home/linux/ieng6/cs15lfa23/cs15lfa23kh/.ssh/authorized_keys
+*Path: /home/linux/ieng6/cs15lfa23/cs15lfa23kh/.ssh/authorized_keys*
 <br />
 
 ![Image showing path to the public key](Lab2Part2LS2.png)
