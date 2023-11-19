@@ -61,7 +61,7 @@ class StringServer {
 
 <br />
 
-![Adding Message 1](Message1Added.png)
+![Adding Message 1](Lab2_P1_Message1_Added.png)
 <br />
 
 <br />
@@ -91,7 +91,7 @@ class StringServer {
 
 <br />
 
-![Adding Message 2](Message2Added.png)
+![Adding Message 2](Lab2_P1_Message2_Added.png)
 <br />
 
 <br />
