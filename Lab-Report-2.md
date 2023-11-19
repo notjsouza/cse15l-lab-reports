@@ -128,7 +128,7 @@ class StringServer {
   
 - The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6) <br />
 
-*Path: /home/linux/ieng6/cs15lfa23/cs15lfa23kh/.ssh/id_rsa.pub*
+*Path: /home/linux/ieng6/cs15lfa23/cs15lfa23kh/.ssh/authorized_keys
 <br />
 
 ![Image showing path to the public key](Lab2Part2LS2.png)
