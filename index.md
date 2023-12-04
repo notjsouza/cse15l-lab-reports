@@ -18,6 +18,10 @@
 
 <br />
 
+- [Week 5](Lab-Report-5.md)
+
+<br />
+
 ---
 
 - [Test File](test.md)
