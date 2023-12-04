@@ -28,7 +28,7 @@ I ran two JUnit tests through my bash script and one of them is causing a "Java 
 
 ## Student Response ##
 
-![Lab5_Passing](Lab5_Passing.png)
+![Lab5_Passing](Lab5_Pass.png)
 
 I just noticed the error in the second while loop. In the case where all the elements from list1 are merged with only some of the elements from list2, it's supposed to add the remaining values of list2 by incrementing index2 after each added value. What it was doing was incrementing index1, leading to the same element from list2 being added infinitely. Thank you for the help, all tests are passing now.
 
