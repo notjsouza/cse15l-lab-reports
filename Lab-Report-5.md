@@ -14,11 +14,11 @@ I ran two JUnit tests through my bash script and one of them is causing a "Java 
 <br />
 <br />
 
-![Lab5_Code](Lab5_Code.png) 
+![Lab5_Code](Lab5_Merge.png) 
 <br />
 <br />
 
-![Lab5_Test](Lab5_Test.png) 
+![Lab5_Test](Lab5_Merge_Test.png) 
 <br />
 <br />
 
